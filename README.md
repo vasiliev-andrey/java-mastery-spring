@@ -1,8 +1,6 @@
         Godel Technologies Java Mastery test task.
 
-Developed with Java 1.8, Spring Boot 2.3.1, Spring JDBC, Maven, Swagger.
-Database: PostgreSQL or H2 (activated by default in application.properties).
-Database sql scripts located in src.main.resources
+Developed with Java 1.8, Spring 5, Liquibase, ActiveMQ
 
 Swagger generated rest api documentation available in http://localhost:8080/simplewebapp/swagger-ui.html#/
 
